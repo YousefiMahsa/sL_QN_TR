@@ -3,7 +3,7 @@
 > #### Stochastic Quasi-Newton Methods in a Trust Region Framework (MATLAB Implementation)
 
 
-The repository "sL_QN_TR" contains programs of s-LBFGS-TR and s-LSR1-TR which are stochastic algorithms based on two well-known quasi-Newton updates, i.e., 
+The repository "sL_QN_TR" contains programs of s-LBFGS-TR and s-LSR1-TR, which are stochastic algorithms based on two well-known quasi-Newton updates, i.e., 
 limited memory BFGS and limited memory SR1, in a Trust Region Framework. 
 These algorithms and their performance in training deep neural networks for image classification tasks are described in the following article: 
 
@@ -27,7 +27,7 @@ This tutorial shows how to define a convolutional neural network (CNN) and how t
 
 In this repository,
 * all programs have been written in MATLAB using the DL toolbox.
-* there are four main programs as below:
+* there are four main programs as follows:
   - ```sL_BFGS_TR.mlx```
   - ```sL_SR1_TR.mlx```
   - ```sL_BFGS_TR_noBN.mlx```
@@ -45,4 +45,4 @@ In this repository,
 
 ![blue-lines-png-7](https://user-images.githubusercontent.com/94915927/148304988-76a4f426-a045-402c-bebe-aec0dfccf02c.png)
 #### Please contact me if you have any questions, suggestions, requests, or bug reports.
-mahsa.yousefi@phd.units.it
+mahsa.yousefi@unifi.it
